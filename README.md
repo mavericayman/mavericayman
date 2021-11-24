@@ -16,3 +16,5 @@ You can find me on [![Twitter][1.2]][1] or at &nbsp;[![LinkedIn][2.2]][2]
 [1]: https://twitter.com/mohamedaimann 
 
 [2]: https://linkedin.com/in/mohamedaiman
+
+[![Aymans GitHub stats](https://github-readme-stats.vercel.app/api?username=mavericayman)]
