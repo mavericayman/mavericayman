@@ -1,16 +1,16 @@
-### Hi there 👋
+# Laravel - Full Stack Web Developer | Node.js | Vue.js | Javascript | NextJS | NestJS | TypeScript | React | Python | Next.js
 
-<!--
-**mavericayman/mavericayman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![wakatime](https://wakatime.com/badge/user/35abdcb3-6298-4d89-9b3f-0a3308bc8f9a/project/2987a163-54ce-47cb-9adf-4812297e9cba.svg)](https://wakatime.com/badge/user/35abdcb3-6298-4d89-9b3f-0a3308bc8f9a/project/2987a163-54ce-47cb-9adf-4812297e9cba)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3>Hi! 👋🤓<br><br>I'm Ayman! </h3>
+
+
+You can find me on [![Twitter][1.2]][1] or at  [![LinkedIn][2.2]][2]
+
+[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
+[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+
+
+[1]: https://twitter.com/mohamedaimann
+[2]: https://linkedin.com/in/mohamedaiman
