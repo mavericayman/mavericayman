@@ -21,5 +21,4 @@ You can find me on [![Twitter][1.2]][1] or at &nbsp;[![LinkedIn][2.2]][2]
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mavericayman&count_private=true&show_icons=true&theme=radical" style="width:100%;"/>
 </a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mavericayman)]
   
