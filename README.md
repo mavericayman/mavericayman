@@ -1,4 +1,4 @@
-# Blockchain Developer ~ Soliday & Web3 | Node.js | Vue.js | Javascript | NextJS | NestJS | TypeScript | React | Python | Next.js
+# Blockchain Developer ~ Solidity & Web3 | Node.js | Vue.js | Javascript | NextJS | NestJS | TypeScript | React | Python | Next.js
 
 [![wakatime](https://wakatime.com/badge/user/35abdcb3-6298-4d89-9b3f-0a3308bc8f9a/project/2987a163-54ce-47cb-9adf-4812297e9cba.svg)](https://wakatime.com/badge/user/35abdcb3-6298-4d89-9b3f-0a3308bc8f9a/project/2987a163-54ce-47cb-9adf-4812297e9cba)
 
